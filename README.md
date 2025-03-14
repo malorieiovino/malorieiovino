@@ -1,4 +1,4 @@
-# Hi, I'm Malorie :')
+# Hi, I'm Malorie :^)
 
 ## 🎓 Academic Projects
 
