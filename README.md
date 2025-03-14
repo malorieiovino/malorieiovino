@@ -1,4 +1,4 @@
-# Hi there! I'm [Your Name] 👋
+# Hi, I'm Malorie :')
 
 ## 🎓 Academic Projects
 
