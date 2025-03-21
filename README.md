@@ -23,6 +23,18 @@ I'm Malorie (งᐛ)ว — Master’s student in Computational Linguistics, exp
 **Tools:** Jupyter Notebook, Streamlit, Reddit API  
 **Specialties:** Natural Language Processing, Machine Learning, Data Analysis, Big Data
 
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+</p>
+
 ---
 
 ## 📂 Projects Showcase
@@ -98,13 +110,8 @@ I'm Malorie (งᐛ)ว — Master’s student in Computational Linguistics, exp
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malorieiovino&layout=compact&theme=tokyonight&hide_border=true)
 
-### 📚 Currently Learning
-- Python 🟩🟩🟩🟩⬜⬜
-- Streamlit 🟩🟩🟩⬜⬜⬜
-- Deep Learning 🟩🟩⬜⬜⬜⬜
-
 ---
-<img src=https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzIxbWR1enpxaHB1Z2VvdmdkODM5eXZ3MW1qMDFiYWo2Zm44MzlhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LlrRVZ9N8no4g7uxfi/giphy.gif width="200"/>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=malorieiovino&theme=tokyo-night&hide_border=true)
 
 --- 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1294737094&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
