@@ -54,9 +54,8 @@
 - Specialties: Natural Language Processing, Machine Learning, Data Analysis
 
 ## 📫 Get in Touch
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
-- Personal Website: [Your Website]
+- LinkedIn: [https://linkedin/in/malorieiovino/]
+- Email: [iovinomalorie@gmail.com]
 
 ---
 
