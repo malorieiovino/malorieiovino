@@ -172,5 +172,5 @@ I’m curious about how language shapes our experiences — and how we can desig
 - 🔗 [LinkedIn](https://linkedin.com/in/malorieiovino)
 - 📧 [Email](mailto:iovinomalorie@gmail.com)
 
-> *“Stay curious, keep learning, and code with joy.”* 🌱
+
 
