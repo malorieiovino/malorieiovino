@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=500&lines=Hi%2C+I'm+Malorie.;Computational+Linguistics+Master's+Student;NLP%2C+Machine+Learning+%26+Data+Enthusiast;Building+tools+that+make+language+come+alive%21)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=500&lines=Malorie+Iovino;Computational+Linguistics+Master's+Student;NLP%2C+Machine+Learning+%26+Data+Enthusiast;Building+tools+that+make+language+come+alive%21)
 
 ---
 
@@ -7,7 +7,7 @@
 <div align="left" style="display: flex; align-items: center; justify-content: space-between;">
 
 <div>
-  <p>### 👋 About Me
+<p>
 
 Hi, I’m Malorie — I have a BA in Linguistics from the University of Vermont and I’m currently pursuing a Master’s in Computational Linguistics at Goldsmiths, University of London.
 
