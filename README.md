@@ -1,11 +1,19 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=500&lines=Hi%2C+I'm+Malorie.;Computational+Linguistics+Master's+Student;NLP%2C+Machine+Learning+%26+Data+Enthusiast;Building+tools+that+make+language+come+alive%21)
 
-
 ---
 
 ## 🎓 About Me
 
-I'm Malorie (งᐛ)ว — Master’s student in Computational Linguistics, exploring the intersection of language, data, and technology.
+<div align="left" style="display: flex; align-items: center; justify-content: space-between;">
+
+<div>
+  <p>I'm Malorie (งᐛ)ว — Master’s student in Computational Linguistics, exploring the intersection of language, data, and technology.</p>
+</div>
+
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RrZ2JiZGtremp5dnoyazQzNHV2Z2djcWdoem51bG03d3ljNGdoaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qyv59JLK2Q0Or2qt0H/giphy.gif" width="150" alt="Robot GIF"/>
+</div>
+
+
 
 
 ---
