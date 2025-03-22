@@ -170,6 +170,8 @@ I’m curious about how language shapes our experiences — and how we can desig
 ---
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=malorieiovino&theme=tokyo-night&hide_border=true)
 
+![Profile Views](https://komarev.com/ghpvc/?username=malorieiovino&color=blueviolet)
+
 --- 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1294737094&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 --- 
