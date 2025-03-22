@@ -7,7 +7,16 @@
 <div align="left" style="display: flex; align-items: center; justify-content: space-between;">
 
 <div>
-  <p>I'm Malorie (งᐛ)ว — Master’s student in Computational Linguistics, exploring the intersection of language, data, and technology.</p>
+  <p>### 👋 About Me
+
+Hi, I’m Malorie — I have a BA in Linguistics from the University of Vermont and I’m currently pursuing a Master’s in Computational Linguistics at Goldsmiths, University of London.
+
+I’m passionate about language and how it intersects with technology — especially the ways AI and machine learning are used to interpret and generate human language. My primary interests include natural language processing, linguistic diversity, language preservation, AI ethics, and the impact of machine learning bias on communication.
+
+I’m curious about how language shapes our experiences — and how we can design technology that understands and respects that.
+
+ </p>
+ 
 </div>
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2RrZ2JiZGtremp5dnoyazQzNHV2Z2djcWdoem51bG03d3ljNGdoaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qyv59JLK2Q0Or2qt0H/giphy.gif" width="150" alt="Robot GIF"/>
