@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=500&lines=Malorie+Iovino;Computational+Linguistics+Master's+Student;NLP%2C+Machine+Learning+%26+Data+Enthusiast;Building+tools+that+make+language+come+alive%21)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E90FF&width=500&lines=Malorie+Iovino;Computational+Linguistics+Master's+Student;NLP%2C+Machine+Learning+%26+Data+Analysis;Building+tools+that+make+language+come+alive%21)
 
 ---
 
